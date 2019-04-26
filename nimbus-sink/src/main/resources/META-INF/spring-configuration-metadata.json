@@ -1,0 +1,19 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.antheminc.oss.nimbus.integration.source.SourceProperties",
+      "name": "nimbus",
+      "type": "com.antheminc.oss.nimbus.integration.source.SourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.antheminc.oss.nimbus.integration.source.SourceProperties",
+      "defaultValue": true,
+      "name": "nimbus.commandUrl",
+      "description": "The command URL to execute to pull data",
+      "type": "java.lang.String"
+    }
+  ]
+}
